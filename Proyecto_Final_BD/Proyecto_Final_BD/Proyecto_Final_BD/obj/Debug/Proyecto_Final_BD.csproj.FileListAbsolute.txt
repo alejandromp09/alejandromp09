@@ -1,0 +1,16 @@
+C:\Users\Hugo\Desktop\Proyecto_Final_BD\Proyecto_Final_BD\Proyecto_Final_BD\bin\Debug\Proyecto_Final_BD.exe.config
+C:\Users\Hugo\Desktop\Proyecto_Final_BD\Proyecto_Final_BD\Proyecto_Final_BD\bin\Debug\Proyecto_Final_BD.exe
+C:\Users\Hugo\Desktop\Proyecto_Final_BD\Proyecto_Final_BD\Proyecto_Final_BD\bin\Debug\Proyecto_Final_BD.pdb
+C:\Users\Hugo\Desktop\Proyecto_Final_BD\Proyecto_Final_BD\Proyecto_Final_BD\obj\Debug\Proyecto_Final_BD.csprojResolveAssemblyReference.cache
+C:\Users\Hugo\Desktop\Proyecto_Final_BD\Proyecto_Final_BD\Proyecto_Final_BD\obj\Debug\Proyecto_Final_BD.Inicio.resources
+C:\Users\Hugo\Desktop\Proyecto_Final_BD\Proyecto_Final_BD\Proyecto_Final_BD\obj\Debug\Proyecto_Final_BD.Properties.Resources.resources
+C:\Users\Hugo\Desktop\Proyecto_Final_BD\Proyecto_Final_BD\Proyecto_Final_BD\obj\Debug\Proyecto_Final_BD.csproj.GenerateResource.Cache
+C:\Users\Hugo\Desktop\Proyecto_Final_BD\Proyecto_Final_BD\Proyecto_Final_BD\obj\Debug\Proyecto_Final_BD.exe
+C:\Users\Hugo\Desktop\Proyecto_Final_BD\Proyecto_Final_BD\Proyecto_Final_BD\obj\Debug\Proyecto_Final_BD.pdb
+C:\Users\Hugo\Desktop\Proyecto_Final_BD\Proyecto_Final_BD\Proyecto_Final_BD\obj\Debug\Proyecto_Final_BD.Cita.resources
+C:\Users\Hugo\Desktop\Proyecto_Final_BD\Proyecto_Final_BD\Proyecto_Final_BD\obj\Debug\Proyecto_Final_BD.Info_Alumnos.resources
+C:\Users\Hugo\Desktop\Proyecto_Final_BD\Proyecto_Final_BD\Proyecto_Final_BD\obj\Debug\Proyecto_Final_BD.Info_Avales.resources
+C:\Users\Hugo\Desktop\Proyecto_Final_BD\Proyecto_Final_BD\Proyecto_Final_BD\obj\Debug\Proyecto_Final_BD.Mostrar_Citas.resources
+C:\Users\Hugo\Desktop\Proyecto_Final_BD\Proyecto_Final_BD\Proyecto_Final_BD\obj\Debug\Proyecto_Final_BD.Mostrar_Registro.resources
+C:\Users\Hugo\Desktop\Proyecto_Final_BD\Proyecto_Final_BD\Proyecto_Final_BD\obj\Debug\Proyecto_Final_BD.Registro_Exitoso.resources
+C:\Users\Hugo\Desktop\Proyecto_Final_BD\Proyecto_Final_BD\Proyecto_Final_BD\obj\Debug\Proyecto_Final_BD.Log_Error.resources
